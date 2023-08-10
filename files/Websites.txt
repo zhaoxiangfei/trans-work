@@ -1,0 +1,20 @@
+1.JAVA     PDF电子书专题
+
+2.脚本之家		https://www.jb51.net/books/list152_3.html
+
+3.Java语言程序设计（进阶篇）				https://www.jb51.net/books/609837.html
+
+4.Java语言程序设计与数据结构（基础篇）			https://www.jb51.net/books/828241.html
+
+5.Java语言程序设计与数据结构（进阶篇）			https://www.jb51.net/books/827833.html
+
+6.IDM下载器				     助手教程       http://h.qianqian.club/bd/jc/jc.html#idm       
+  绿色版 						https://softxm.lanzouw.com/izyij0rl0uze		
+
+7.网盘插件	https://greasyfork.org/zh-CN/scripts/449291-%E6%94%B9-%E7%BD%91%E7%9B%98%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B
+
+
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko	
+
+
+https://github.com/dotnetcore/FastGithub/releases		
